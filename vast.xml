@@ -1,0 +1,207 @@
+<VAST version="3.0"> 
+	<Ad id="696472" sequence="1"> 
+		<InLine> 
+			<AdSystem>AdRiver</AdSystem> 
+			<AdTitle>696472></AdTitle> 
+			<Impression>
+				<![CDATA[https://ads.tricolor.tv/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=0&amp;exs0=&amp;exs1=&amp;exs2=&amp;exs3=&amp;exs4=&amp;exs5=&amp;custom=1=CinemaBanner;2=ANDROID;3=11111111-0000-0000-0000-000048800000;4=default;8=1;5=phone;6=54219009599091;207=&amp;exss=]]>
+			</Impression> 
+			<Impression>
+				<![CDATA[]]>
+			</Impression> 
+			<Creatives> 
+				<Creative id="6565908"> 
+					<Linear skipoffset="00:00:10"> 
+						<Duration>00:00:40</Duration> 
+						<TrackingEvents> 
+							<Tracking event="creativeView">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=1]]>
+							</Tracking> 
+							<Tracking event="start">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=2]]>
+							</Tracking> 
+							<Tracking event="midpoint">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=3]]>
+							</Tracking> 
+							<Tracking event="firstQuartile">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=4]]>
+							</Tracking> 
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=5]]>
+							</Tracking> 
+							<Tracking event="complete">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=6]]>
+							</Tracking> 
+							<Tracking event="mute">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=7]]>
+							</Tracking> 
+							<Tracking event="unmute">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=8]]>
+							</Tracking> 
+							<Tracking event="pause">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=9]]>
+							</Tracking> 
+							<Tracking event="rewind">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=10]]>
+							</Tracking> 
+							<Tracking event="resume">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=11]]>
+							</Tracking> 
+							<Tracking event="expand">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=12]]>
+							</Tracking> 
+							<Tracking event="collapse">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=13]]>
+							</Tracking> 
+							<Tracking event="acceptInvitation">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=14]]>
+							</Tracking> 
+							<Tracking event="close">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=15]]>
+							</Tracking> 
+							<Tracking event="fullscreen">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=16]]>
+							</Tracking> 
+							<Tracking event="exitFullscreen">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=17]]>
+							</Tracking> 
+							<Tracking event="skip">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=18]]>
+							</Tracking> 
+							<Tracking event="progress" offset="00:00:20">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;type=19&amp;custom=1=CinemaBanner;2=ANDROID;3=11111111-0000-0000-0000-000048800000;4=default;8=1;5=phone;6=54219009599091]]>
+							</Tracking> 
+						</TrackingEvents> 
+						<VideoClicks> 
+							<ClickThrough>
+								<![CDATA[https://ads.tricolor.tv/cgi-bin/click.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;erid=2222&amp;custom=1=CinemaBanner;2=ANDROID;3=11111111-0000-0000-0000-000048800000;4=default;8=1;5=phone;6=54219009599091&amp;tail256=]]>
+							</ClickThrough> 
+						</VideoClicks> 
+						<MediaFiles> 
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="256" width="0" height="0">
+								<![CDATA[https://mlb5.adriver.ru/mf/0006565/0006565908/0/WHISKAS.mp4]]>
+							</MediaFile> 
+						</MediaFiles> 
+					</Linear> 
+					<CreativeExtensions> 
+						<Extension type="AdTune"> 
+							<![CDATA[ 
+							{"show": 1, "token": "2222", "advertiserInfo": {"ads":{"info":"OTT_GS_LABS"},"such":"data"}}
+							]]> 
+						</Extension> 
+					</CreativeExtensions> 
+				</Creative> 
+			</Creatives> 
+			<Description>
+				<![CDATA[Реклама]]>
+			</Description> 
+			<Advertiser>
+				<![CDATA[Реклама. OTT_GS_LABS. Токен: 2222.]]>
+			</Advertiser> 
+			<Error>
+				<![CDATA[https://ads.tricolor.tv/cgi-bin/event.cgi?xpid=DOcaZwxmQbsLgeZUkEyKM3l5ijKCIJFPDIHr0_Hy4yMycZqjVLE2FhJhOYh14blt7cUKwm0CQpiZXdrKSi7B1c7Uvkke6ic7TysBBRw&amp;sid=221270&amp;sliceid=2468561&amp;bn=1&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6565908&amp;bt=61&amp;tuid=-1&amp;type=25&amp;custom=172=[ERRORCODE]]]>
+			</Error> 
+		</InLine> 
+	</Ad> 
+	<Ad id="696472" sequence="2"> 
+		<InLine> 
+			<AdSystem>AdRiver</AdSystem> 
+			<AdTitle>696472></AdTitle> 
+			<Impression>
+				<![CDATA[https://ads.tricolor.tv/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=0&amp;exs0=&amp;exs1=&amp;exs2=&amp;exs3=&amp;exs4=&amp;exs5=&amp;custom=1=CinemaBanner;2=ANDROID;3=11111111-0000-0000-0000-000048800000;4=default;8=1;5=phone;6=54219009599091;207=&amp;exss=]]>
+			</Impression> 
+			<Impression>
+				<![CDATA[]]>
+			</Impression> 
+			<Creatives> 
+				<Creative id="6566724"> 
+					<Linear skipoffset="00:00:00"> 
+						<Duration>00:00:41</Duration> 
+						<TrackingEvents> 
+							<Tracking event="creativeView">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=1]]>
+							</Tracking> 
+							<Tracking event="start">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=2]]>
+							</Tracking> 
+							<Tracking event="midpoint">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=3]]>
+							</Tracking> 
+							<Tracking event="firstQuartile">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=4]]>
+							</Tracking> 
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=5]]>
+							</Tracking> 
+							<Tracking event="complete">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=6]]>
+							</Tracking> 
+							<Tracking event="mute">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=7]]>
+							</Tracking> 
+							<Tracking event="unmute">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=8]]>
+							</Tracking> 
+							<Tracking event="pause">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=9]]>
+							</Tracking> 
+							<Tracking event="rewind">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=10]]>
+							</Tracking> 
+							<Tracking event="resume">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=11]]>
+							</Tracking> 
+							<Tracking event="expand">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=12]]>
+							</Tracking> 
+							<Tracking event="collapse">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=13]]>
+							</Tracking> 
+							<Tracking event="acceptInvitation">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=14]]>
+							</Tracking> 
+							<Tracking event="close">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=15]]>
+							</Tracking> 
+							<Tracking event="fullscreen">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=16]]>
+							</Tracking> 
+							<Tracking event="exitFullscreen">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=17]]>
+							</Tracking> 
+							<Tracking event="skip">
+								<![CDATA[https://ev.adriver.ru/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=18]]>
+							</Tracking> 
+						</TrackingEvents> 
+						<VideoClicks> 
+							<ClickThrough>
+								<![CDATA[https://ads.tricolor.tv/cgi-bin/click.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;erid=12345&amp;custom=1=CinemaBanner;2=ANDROID;3=11111111-0000-0000-0000-000048800000;4=default;8=1;5=phone;6=54219009599091&amp;tail256=]]>
+							</ClickThrough> 
+						</VideoClicks> 
+						<MediaFiles> 
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="256" width="0" height="0">
+								<![CDATA[https://mlb2.adriver.ru/mf/0006566/0006566724/0/S7.mp4]]>
+							</MediaFile> 
+						</MediaFiles> 
+					</Linear> 
+					<CreativeExtensions> 
+						<Extension type="AdTune"> 
+							<![CDATA[ 
+							{"show": 1, "token": "12345", "advertiserInfo": {"ads":{"info":"OTT_GS_LABS"},"such":"data"}}
+							]]> 
+						</Extension> 
+					</CreativeExtensions> 
+				</Creative> 
+			</Creatives> 
+			<Description>
+				<![CDATA[Реклама]]>
+			</Description> 
+			<Advertiser>
+				<![CDATA[Реклама. OTT_GS_LABS. Токен: 12345.]]>
+			</Advertiser> 
+			<Error>
+				<![CDATA[https://ads.tricolor.tv/cgi-bin/event.cgi?xpid=DnUGahSedjQibJou5Ninp66yHB84gEHIymeO5gb4q1dsa1KibiBDY3kC78rYkxT2v3qiFQFYCvH8SgCKut1FtuQ2QMpIkJ6jHnSzVRA&amp;sid=221270&amp;sliceid=2468561&amp;bn=2&amp;pz=0&amp;sz=web&amp;ad=696472&amp;bid=6566724&amp;bt=61&amp;tuid=-1&amp;type=25&amp;custom=172=[ERRORCODE]]]>
+			</Error> 
+		</InLine> 
+	</Ad> 
+</VAST>
