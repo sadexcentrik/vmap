@@ -186,9 +186,7 @@
 					</Linear> 
 					<CreativeExtensions> 
 						<Extension type="AdTune"> 
-							<![CDATA[ 
-							{"show": 1, "token": "12345", "advertiserInfo": {"ads":{"info":"OTT_GS_LABS"},"such":"data"}}
-							]]> 
+							<![CDATA[]]> 
 						</Extension> 
 					</CreativeExtensions> 
 				</Creative> 
