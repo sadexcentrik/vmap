@@ -4,13 +4,13 @@
         <Wrapper>
             <AdSystem>ADFOX</AdSystem>
             <VASTAdTagURI>
-                <![CDATA[http://192.168.88.100:8000/modify_ads.xml]]>
+                <![CDATA[https://raw.githubusercontent.com/sadexcentrik/vmap/refs/heads/main/vast.xml]]>
             </VASTAdTagURI>
             <Error>
                 <![CDATA[http://192.168.88.100:8000/246091/event?hash=54e023ee2a9ff568&pm=u&eid4=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&dl=com.app.tricolortv.com&puid31=app_webos&p5=kumtc&eid3=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&puid29=%7B%7BSDK_VERSION%7D%7D&lts=foqvubu&puid28=7&puid60=com.app.tricolortv.com&pr=hlhxczmxsyumqp&google_aid=e2c94b39-ffec-4bf7-8ad2-7ac72ab4b8e2&p1=cqlqz&rqs=3IavAidhlxvG8W9mrrwDW0A9q5prQbj_&rand=jvczkoz&sj=ByKmh3EjcHtG2PV57UXMlc4ZonVgXzA_-RP_hE-lyvsO04V5pPA_7GIG0dsJKHfN&puid9=42&puid5=7&p2=hfes]]>
             </Error>
             <Impression>
-                <![CDATA[http://192.168.88.100:8000/after_ads.xml]]>
+                <![CDATA[https://raw.githubusercontent.com/sadexcentrik/vmap/refs/heads/main/vast.xml]]>
             </Impression>
             <Creatives>
                 <Creative>
@@ -64,7 +64,7 @@
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickTracking>
-                                <![CDATA[http://192.168.88.100:8000/after_ads.xml]]>
+                                <![CDATA[https://raw.githubusercontent.com/sadexcentrik/vmap/refs/heads/main/vast.xml]]>
                             </ClickTracking>
                         </VideoClicks>
                     </Linear>
